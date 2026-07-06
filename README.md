@@ -26,4 +26,4 @@ Host the `website/` folder on any static host (Vercel, Netlify, GitHub Pages, S3
 The policy pages are folders with `index.html`, so the clean URLs `/privacy-policy` and `/terms-and-conditions` work on every host with no rewrite rules.
 Those are the URLs to paste into the Twilio campaign verification form.
 
-Before going live, replace the support email (`jeffrey@samantha-medical.com`) with a dedicated support address if desired; it appears in the footer and on both policy pages.
+Before going live, replace the support email (`info@samantha-medical.com`) with a dedicated support address if desired; it appears in the footer and on both policy pages.
